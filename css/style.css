@@ -31,3 +31,38 @@ body{
   font-size: 25px;
 }
 
+.space{
+  margin-right: 30px;
+}
+
+.btn-wpp{
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+  background-color: #02e676;
+  border-color: #02e676;
+  border-radius: .25rem;
+  color: #fff;
+  text-decoration: none;
+}
+.btn-linkedin{
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+  background-color: #0e76a8;
+  border-color: #0e76a8;
+  border-radius: .25rem;
+  color: #fff;
+  text-decoration: none;
+}
+.btn-github{
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+  background-color: #000;
+  border-color: #000;
+  border-radius: .25rem;
+  color: #fff;
+  text-decoration: none;
+}
+
