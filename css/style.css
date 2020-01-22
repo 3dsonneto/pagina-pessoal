@@ -1,5 +1,9 @@
+html{
+  height: 100%;
+}
+
 body{
-  background: url(../img/bg.jpg) no-repeat center center fixed;
+  background: url(../img/bg.jpg);
   /* Faz a imagem caver na tela */
   background-size: cover;
   -webkit-background-size: cover;
@@ -8,6 +12,7 @@ body{
   text-align: center;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
 }
 .profile{
   border-radius: 50%;
