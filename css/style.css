@@ -1,5 +1,5 @@
 body{
-  background-image: url(../img/bg.jpg);
+  background: url(../img/bg.jpg) no-repeat center center fixed;
   /* Faz a imagem caver na tela */
   background-size: cover;
   -webkit-background-size: cover;
