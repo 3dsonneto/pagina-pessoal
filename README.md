@@ -11,3 +11,5 @@
 >Firebase - para envio de mensagem  
 >Google Fonts - Raleway  
 > Google Analytics  
+
+**Desenvolvedor:** Edson Neto
